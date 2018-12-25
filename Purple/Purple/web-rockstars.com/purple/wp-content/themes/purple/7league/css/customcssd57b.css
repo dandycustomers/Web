@@ -1,0 +1,313 @@
+/* COLOR PROILE:  */ #main .inner, .inner {max-width:1200px;}#overheader .inner {max-width:1200px;}#overheader .inner {max-width:1200px;}#header .inner {max-width:1200px;}#head_line .inner {max-width:1200px;}#footer .inner {max-width:1200px;}#secondfooter .inner, #copy .inner, #copyright .inner {max-width:1200px;} /* BEGINN AUTOSTYLES */ textarea, input[type=text], input[type=password], input[type=email], select {background-color: rgb(178, 93, 211); }
+textarea, input[type=text], input[type=password], input[type=email], select {color: rgb(255, 255, 255); }
+textarea, input[type=text], input[type=password], input[type=email], select {border-color: rgb(73, 20, 94); }
+.pricing_heading {background: rgb(139, 32, 181); }
+.pricing_heading h3, .pricing_heading h4 {color: #fff; }
+#content .pagination {text-align: center; }
+body {background-color: #2a0a2f; }
+#overheader {background-color: rgb(51, 14, 66); }
+#overheader {color: rgb(136, 95, 153); }
+#overheader {font-size: 20px; }
+.p61 #the_header {color: #e0d194; }
+.p61 #the_header #navigation {background-color: rgb(136, 41, 175); }
+header #menu ul.sub-menu {background-color: rgb(101, 32, 128); }
+.mean-container .mean-bar, .mean-container .mean-nav {background-color: rgb(139, 32, 181); }
+.mean-container .mean-bar, .mean-container .mean-bar:after, .mean-bar a, .mean-container a.meanmenu-reveal, .mean-container .mean-nav ul li a  {color: #fff; }
+.mean-container .mean-bar:after {content: Menu; }
+#head_line .head_line_h1 {background-color: rgb(65, 17, 79); }
+#copyright, #copy {background-color: rgb(15, 7, 16); }
+#copyright, #copy {color: rgb(63, 55, 70); }
+
+
+
+
+
+ 
+
+
+
+/* BEGINN NON AUTO STYLES */
+
+body, .body_background, body.sevenleague  { background-color:#2a0a2f;  background-image:url(../../images/bg/pbg1.jpg);  background-repeat:no-repeat;  background-position:center top; }
+body, .body_background, body.sevenleague   {}
+#page { }
+.ui-tabs-nav li a, h3.toggle-trigger, h3.accordion-trigger, .accordion h3 {}
+
+
+body, .body_color, body.sevenleague  { font-family:'Lato'   ; }
+a  { }
+a:hover {}
+a:visited {}
+h1, a h1, h1 a, .tagline, .h1 {font-family:'Bungee Inline'   ;    }
+h2, a h2, h2 a, .h2 {font-family:'Bungee Inline'   ;    }
+h3, a h3, h3 a, .h3 {font-family:'Bungee Inline'   ;    }
+h4, a h4, h4 a, .h4 {font-family:'Bungee Inline'   ;    } 
+h5, a h5, h5 a, .h5 {font-family:'Bungee Inline'   ;    }
+h6, a h6, h6 a, .h6 {font-family:'Bungee Inline'   ;    }
+
+#overheader, .overheader_bg {  background-color:rgb(51, 14, 66);    background-position: top; color:rgb(136, 95, 153); }
+#overheader, .overheader_bg {}
+
+#head_line, .head_line_background {    background-position:left top;; } 
+#head_line h1, #head_line a h1, #head_line h1 a {   color:rgb(255, 255, 255) ; }
+#head_line h2, #head_line h2 a, #head_line a h2 {   color:rgb(224, 209, 148) ; }
+ 
+.element-logo, body #cotnainer #page header #the_logo, #the_logo { margin-top:20px;}
+#pagename { margin-top:20px;}
+#pageslogan {}
+
+body.has_slider header #menu {}
+
+#the_header, #nav.one_page_fixed, .header_background {     background-position:left top;; }
+#the_header, .header_background {}
+
+
+header .main-menu > li > a, #header_infoline  {}
+
+body #container #page header#header .main-menu {font-family:'Bungee Inline'   ;  }
+header#headline.has_menu_description .main-menu > li > a > span {}
+header.logo-left .main-menu > li > a, #headline.logo-left #menu > li > i, header.logo-right .main-menu > li > a, #headline.logo-right #menu > li > i {/*  */}
+#headline.logo-left #menu > li > i, #headline.logo-right #menu > li > i {}
+
+header.main-menu  .current-menu-item, .main-menu .current-menu-parent, .current-page-ancestor {}
+header .main-menu li, header .main-menu a,  ul#responsive_menu a, .main-menu a:visited, .cart-contents, .cart-contents:hover {  } 
+ 
+header .main-menu li:hover, header .main-menu li:hover > a {}
+header .main-menu ul.sub-menu a { font-family:'Lato'   ; }
+header .main-menu  ul.sub-menu  { background-color:rgb(101, 32, 128) ;   }
+.seven_mega_menu { background-color:rgb(101, 32, 128) ;  color:rgb(224, 209, 148) ;  } 
+ul.sub-menu::before { border-bottom-color:rgb(101, 32, 128);}
+header .main-menu  ul.sub-menu li a, header .main-menu  ul.sub-menu li,  ul#responsive_menu li a { color:rgb(224, 209, 148) ;  }	
+
+header .seven_mega_menu *, header .seven_mega_menu *:hover, header .seven_mega_menu li, header .main-menu li:hover .seven_mega_menu, header .main-menu li:hover .seven_mega_menu a, header .seven_mega_menu a,  header li:hover .seven_mega_menu li { color:rgb(224, 209, 148) ;  }
+header .seven_mega_menu { font-family:'Lato'   ; }
+
+header .main-menu  ul.sub-menu li a:hover, #header .sc_menu li:hover { }
+header #menu > li:hover {}
+header ul.sub-menu li:hover {}
+.mean-container .mean-bar:after { content:'Menu';}
+.mean-container a.meanmenu-reveal span  { background-color:#fff;}
+  
+.allslider_overlay1 {}
+.allslider_overlay2 {}
+.allslider_overlay3 {}
+
+
+body #page #hero, .body #page hero_background {    background-position:left top;; } 
+#hero h2, #hero a h2, #hero  h2 a, #hero  .h2 {  font-size:100px;   line-height:106px;}
+#hero h3, #hero a h3, #hero  h3 a, #hero  .h3 {  font-size:33px;   line-height:39px;}
+#hero h2, #hero h3 { }
+#hero h2 span, #hero h3 span { }
+
+
+#main, .mainsection, .main_background  {    background-position: top; }
+#main, .mainsection, .main_color  {}
+body.has_slider_gradient #hero:after {}
+
+
+#content, .content_color  { color:rgb(224, 209, 148); }
+#content a  { }
+#content a:hover {}
+#content a:visited {}
+#content h1, #content a h1, .tagline  {   }
+#content h1 strong {}
+#content h2, #content a h2 {   }
+
+#content h3, #content a h3 {   }
+#content h4, #content a h4 {   } 
+#content h5, #content a h5 {   }
+#content h6, #content a h6 {   }
+
+ 
+#footer, .footer_background {    }
+#footer, .footer_background {}
+ 
+
+#footer, .footer_color /* , #footer p, #footer * */ { }
+#footer a  { }
+#footer a:hover {}
+#footer a:visited {}
+#footer h2, #footer a h2 {   }
+#footer h3, #footer a h3 {   }
+#footer h4, #footer a h4 {   } 
+#footer h5, #footer a h5 {   }
+#footer h6, #footer a h6 {   }
+#footer p.h3.widget-title { }
+
+.scroll_top_button {}
+
+
+#secondfooter, #copyright, .copyright_background {  background-color:rgb(15, 7, 16);    background-position:left top; color:rgb(63, 55, 70); }
+#secondfooter, #copyright, .copyright_background {}
+
+#underfooter {}
+
+.callout {}
+.testimonial-lists-item-shortcode h5::before { border-left:12px solid transparent !important; }
+.post-count-comments::after {} 
+.toggle  h3.box { }
+.toggle .box, .toggle .box + div { }
+.toggle  h3.color {}
+.toggle .color  { }
+.toggle .color + div {  }
+.accordion   h3.box {}
+.accordion .box, .accordion .box + div {  }
+::selection { background-color: rgb(139, 32, 181) !important; }
+.nivo-header .nivo-controlNav a.active, .cycle-content-navs a.activeSlide {}
+
+.pricing_heading { border-top-color: rgb(139, 32, 181);}
+.pricing_heading::after { border-top-color: rgb(139, 32, 181);}
+.pricing_heading h3, .pricing_heading h4 { color: #fff; }
+.pricing_heading { border-top-color: rgb(139, 32, 181);}
+.pricing_heading::after { border-top-color: rgb(139, 32, 181);}
+.pricing_heading h3, .pricing_heading h4 { color: #fff; }
+
+
+.ui-element, .cart-contents em:after, a.biggerPhoto, .skillsprogress   {  background-color:rgb(139, 32, 181); color:#fff;} 
+#filters a , .pagination a, .pagination span, .page-pagination span, .page-pagination a  {   color:rgb(139, 32, 181);} 
+
+/* UI BG */
+.testimonial_big_slider a.cycle_prev, .testimonial_big_slider a.cycle_next , .button.custom, .sc_button.custom, .flex-direction-nav a, .sc_appointment, .cbp_tmtimeline > li .cbp_tmicon, a.biggerPhoto:before, .portfolio_five .div_portfolio_entry .lrs i,  .sc_button.custom, input.wpcf7-submit, .feature_box > div:first-child,  a.portfolio_entry_bigger_image, .portfolio-img a.biggerPhoto,   .nivo-header .nivo-controlNav a.active, .cycle-content-navs a.activeSlide, #ascrail2000 > div, .nivo-header .nivo-controlNav a:hover, .tagcloud a, .cycle-content-navs a:hover { background-color:rgb(139, 32, 181) !important; color:#fff !important;}
+.sc_button.custom:hover, input.wpcf7-submit:hover, .pagination a.page-numbers:hover { background-color:rgb(175, 60, 220) !important;}
+
+.owl-prev, .owl-next, .owl-prev i, .owl-next i { background-color:rgb(139, 32, 181) !important; color:#fff !important;}
+
+
+.sc_splitheadline_left { border-color:rgb(139, 32, 181) ;}
+
+ 
+h1 em, h2 em, h3 em, h4 em, h5 em, h6 em { background-color:rgb(139, 32, 181) !important; color:#fff !important;}
+ 
+.ui-color-as-background { background-color:#fff !important;}
+.ui-background-as-color { color:rgb(139, 32, 181) !important;}
+
+.button.shadow, .sc_button.shadow, input.shadow { box-shadow:0px 4px 0px rgba(0,0,0,0.4), 0px 4px 0px rgb(139, 32, 181);}
+
+.woocommerce span.onsale, .woocommerce-page span.onsale, .woocommerce a.button, .button.alt, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page #content input.button.alt:hover
+{
+	 background-color:rgb(139, 32, 181) !important; color:#fff !important; text-shadow:none !important;
+}
+.woocommerce-message:before { background-color:rgb(139, 32, 181) !important;}
+.woocommerce-message { border-top: 3px solid rgb(139, 32, 181);}
+
+
+
+
+.title_box .title_box_title, .title_box .title_box_title i {  background-color:rgb(139, 32, 181);  }
+.title_box .title_box_title {  color:#fff;  }
+.title_box_title, .title_box .title_box_title i  { background-color:#fff;}
+.title_box_title, .title_box .title_box_title i  { color:rgb(139, 32, 181);}
+
+ h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong, .tagline strong, [class*="icon-"], p.contact_widget + span {  color:rgb(139, 32, 181);  }
+ 
+.callout { border-left: 4px solid rgb(139, 32, 181) ;}
+ 
+/* FOOTER SCROLLTOP */
+#footer_scroll_top { background-color:rgb(139, 32, 181); color:#fff;}
+
+#content .pagination a, .pagination a.page-numbers, .pagination span.page-numbers, .page-pagination span { background-color:rgb(139, 32, 181);  color:#fff} .pagination span.page-numbers.current { background-color:#fff;  color:rgb(139, 32, 181)}ol#filters {text-align:}
+
+
+
+
+
+
+
+body {
+	font-family:Lato;
+	font-size:18px;
+	color:#E0D194;
+	text-transform: ;
+}
+
+ h1,h2,h3,h4,h5,h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1, .h2, .h3, .h4, .h5, .h6, .tagline {
+	font-family:Bungee Inline;
+	color:rgb(255, 255, 255);
+	text-transform: ;
+	font-weight:100;
+}
+
+ h1, .tagline, .h1, h1 a {
+	font-size:70px;
+	text-transform: ;
+}
+
+ h2, .h2, h2 a {
+	font-size:53px;
+	text-transform: ;
+}
+
+ h3, .h3, h3 a {
+	font-size:30px;
+	text-transform: ;
+}
+
+ h4, .h4, h4 a {
+	font-size:27px;
+	text-transform: ;
+}
+
+ h5, .h5, h5 a {
+	font-size:22px;
+	text-transform: ;
+}
+
+ h6, .h6, h6 a {
+	font-size:20px;
+	text-transform: ;
+}
+
+ header ul#menu > li > a, header ul#menu > li > i {
+	font-family:Bungee Inline;
+	font-size:24px;
+	letter-spacing:0px;
+	color:rgb(224, 209, 148);
+	text-transform: ;
+}
+
+ header .main-menu ul.sub-menu li a, header .main-menu ul.sub-menu li, ul#responsive_menu li a, header .seven_mega_menu , .seven_mega_menu, header .seven_mega_menu a, #header .seven_mega_menu *  {
+	font-family:Lato;
+	font-size:16px;
+	letter-spacing:1px;
+	text-transform: ;
+}
+
+ #head_line h1 {
+	text-transform: ;
+}
+
+ #head_line h2 {
+	text-transform: ;
+}
+
+ .mainsection {
+	text-transform: ;
+}
+
+ .mainsection h1, .mainsection .h1, .mainsection h1 a {
+	text-transform: ;
+}
+
+ .mainsection h2, .mainsection .h2, .mainsection h2 a {
+	text-transform: ;
+}
+
+ .mainsection h3, .mainsection .h3, .mainsection h3 a {
+	text-transform: ;
+}
+
+ .mainsection h4, .mainsection .h4, .mainsection h4 a {
+	text-transform: ;
+}
+
+ .mainsection h5, .mainsection .h5, .mainsection h5 a {
+	text-transform: ;
+}
+
+ .mainsection h6, .mainsection .h6, .mainsection h6 a {
+	text-transform: ;
+}
+
+ 
+
+ 
